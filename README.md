@@ -18,10 +18,6 @@
 
 ---
 
-## 📊 Automated System Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasterCode111&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterCode111&theme=dark)
 
 ### 👾 Coding Metrics Terminal
 * **Primary Language Matrix:** `C++` (Low-level tuning, algorithmic loops)
