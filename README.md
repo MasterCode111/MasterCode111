@@ -20,10 +20,8 @@
 
 ## 📊 Automated System Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MasterCode111&show_icons=true&theme=tokyonight&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasterCode111&layout=compact&theme=tokyonight&hide=html,css" height="175" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MasterCode111&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MasterCode111&theme=dark)
 
 ### 👾 Coding Metrics Terminal
 * **Primary Language Matrix:** `C++` (Low-level tuning, algorithmic loops)
