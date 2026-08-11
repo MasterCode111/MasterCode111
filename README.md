@@ -1,6 +1,16 @@
 # 🖥️ CORE ENGINE // COMMAND CENTER
 `SYS_STATUS // ONLINE` • `LOC // TAJIKISTAN` • `BUS_CLK // 4.8 GHz`
 
+<div align="center">
+
+<!-- Neon Typing Animation - IT Quotes -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&height=50&lines=First%2C+solve+the+problem.+Then%2C+write+the+code.;Computing+is+not+about+computers%2C+it's+about+life.;Talk+is+cheap.+Show+me+the+code.;Simplicity+is+prerequisite+for+reliability." alt="Neon Typing SVG" />
+</a>
+
+</div>
+
+
 [INIT] Synchronizing system routing nodes...
 [OK]   Handshake established with MasterCode Subsystems.
 [READY] Terminal interface loaded successfully.
